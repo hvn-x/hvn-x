@@ -2,7 +2,7 @@
 
 **` Content Creator / Community Manager / Video Game Enthusiast `**
 
-I'm a self-proclaimed content creator and discord community manager. All graphics seen in discord servers run by me were created by myself in Affinity Designer, I'm trying to improve each part of my skills to hopefully turn my skill set into a career. All of my recorded and unedited content goes to my channel, [hvn][youtube] on YouTube. If you wish to contact me you may currently do so from my community manager position inside of Project: Fazbear. You may access this discord server from my [linktree][linktree]. All of my content is unedited and comes directly from OBS Studio, as I feel that the world is far too swamped in this need to be "perfect" that requires hours of work just to post something to a channel. I plan to further expand this github repo as my channel grows.
+I'm a self-proclaimed content creator and Discord community manager. All graphics seen in Discord servers run by me were created by myself in Affinity Designer, I'm trying to improve each part of my skills to hopefully turn my skill set into a career. All of my recorded and unedited content goes to my channel, [hvn][youtube] on YouTube. If you wish to contact me you may currently do so from my community manager position inside of Project: Fazbear. You may access this Discord server from my [Linktree][linktree]. All of my content is unedited and comes directly from OBS Studio, as I feel that the world is far too swamped in this need to be "perfect" that requires hours of work just to post something to a channel. I plan to further expand this github repo as my channel grows.
 
    <p align="left">
       <a href="https://www.youtube.com/@hvnn.x?sub_confirmation=1">
@@ -14,7 +14,7 @@ I'm a self-proclaimed content creator and discord community manager. All graphic
       <a href="https://github.com/hvn-x?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hvn-x?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   
+
 #
 
 ![hvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvn-x&show_icons=true&theme=holi)
