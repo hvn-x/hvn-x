@@ -14,15 +14,10 @@ I'm a self-proclaimed content creator and discord community manager. All graphic
       <a href="https://github.com/hvn-x?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hvn-x?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
----
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
-
+   
 #
 
-[![hvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvn-x)](https://github.com/anuraghazra/github-readme-stats)
+![hvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvn-x&show_icons=true&theme=holi)
 
 [youtube]: https://youtube.com/@hvnn.x
 [linktree]: https://linktr.ee/hvnn.x
